@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+🌱 I’m currently doing diploma in python full-stack.
+📫 How to reach me: **achusubhash8_**
+my website: <a href="https://achusubhash.github.io/" target="_blank"></a>
 <!--
 **achusubhash/achusubhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
