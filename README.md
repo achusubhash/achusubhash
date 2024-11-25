@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently doing diploma in python full-stack.
+🌱 Student @rtu.
 <!--
 **achusubhash/achusubhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
