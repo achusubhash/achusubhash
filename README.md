@@ -1,6 +1,6 @@
 ### Hi there 👋
 🌱 Student @ISMA.
-🧑‍🎓 Course **Professional Bachelor of Information Systems**.
+-🧑‍🎓 Course **Professional Bachelor of Information Systems**.
 <!--
 **achusubhash/achusubhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
