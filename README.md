@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 Student @ISMA.
+🌱 Student @ISMA.  
 🧑‍🎓 Course **Professional Bachelor of Information Systems**.
 
 ## Certification Progress 📚
