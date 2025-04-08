@@ -3,18 +3,15 @@
 🧑‍🎓 Course **Professional Bachelor of Information Systems**.
 
 ## Certification Progress 📚
-- **Course:** [Your Certification Name]
-- **Platform:** [Coursera, edX, Udacity, etc.]
-- **Progress:** X% completed
+- **Course:** Introduction to Web Development
+- **Platform:** Coursera
+- **Progress:** 20% completed
 - **Key Topics Learned:**
   - HTML & CSS basics
   - JavaScript interactivity
-  - Flask for backend development
  
 ## Mini Project Idea 💡
-I am developing a **[Project Name]**, a web application that will:
-- Solve [Describe problem]
-- Include features like [Forms, Authentication, Animations, etc.]
+
 <!--
 **achusubhash/achusubhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
