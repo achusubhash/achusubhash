@@ -5,13 +5,13 @@
 ## Certification Progress 📚
 - **Course:** Introduction to Web Development
 - **Platform:** Coursera
-- **Progress:** 20% completed
+- **Progress:** 100% completed
 - **Key Topics Learned:**
   - HTML & CSS basics
   - JavaScript interactivity
  
 ## Mini Project Idea 💡
-
+ - **Simple Task Organizer**
 <!--
 **achusubhash/achusubhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
