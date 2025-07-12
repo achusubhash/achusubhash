@@ -12,10 +12,8 @@
  
 ## Mini Project Idea 💡
  - **Simple Task Organizer**
- **📫How to reach me: [<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/e52b9f9a-fb40-41ef-ba3f-d5d304044d4c" />
-](https://www.instagram.com/achusubhash8_/)**
-📫How to reach me: [<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/e52b9f9a-fb40-41ef-ba3f-d5d304044d4c" />
-](https://www.instagram.com/achusubhash8_/)
+
+## **📫How to reach me: [<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/e52b9f9a-fb40-41ef-ba3f-d5d304044d4c" />
 <!--
 **achusubhash/achusubhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
